@@ -1,0 +1,33 @@
+body{
+    background-color: lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+   .task, .task-list {
+    margin: 10px 0; 
+  }
+  
+  input, button, .task button {
+    font-size: 1em; 
+    padding: 5px 10px; 
+  }
+  div {
+    font-size: 1.1em;
+    padding: 5px 10px;
+
+  }
+
+  input, button {
+    border-radius: 10px;
+    border-style: double;
+
+  }
+
+  button {
+    background-color: beige;
+    border-color: bisque;
+    color: lightsalmon;
+
+  }
+
+ 
