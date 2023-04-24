@@ -4,16 +4,14 @@ Entrar a la carpeta task-manager con el comando `cd task manager`.
 Instalar node_modules con el comando `npm i`
 Correr la aplicacion con el comando `npm start`
 
+## Scripts disponibles
 
-## Available Scripts
-
-In the project directory, you can run:
+En el directorio del proyecto, puedes ejecutar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ejecuta la aplicación en modo de desarrollo.\
+Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+La página se recargará automáticamente cuando realices cambios.\
+También podrás ver errores de lint en la consola.
