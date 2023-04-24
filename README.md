@@ -1,5 +1,5 @@
 # Pasos para ejecutar el proyecto
-Descargar el código desde github.
+Descargar el código desde github https://github.com/Valentinaadle/task-manager.
 Entrar a la carpeta task-manager con el comando `cd task manager`.
 Instalar node_modules con el comando `npm i`
 Correr la aplicacion con el comando `npm start`
